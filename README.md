@@ -23,7 +23,7 @@ A robust and scalable ETL (Extract, Transform, Load) pipeline for processing CSV
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/csv-to-database-pipeline.git
+git clone https://github.com/aum2606/csv-to-database-pipeline.git
 cd csv-to-database-pipeline
 ```
 
